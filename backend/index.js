@@ -16,7 +16,7 @@ const redisClient = redis.createClient({
     host: host,
     port: port,
   },
-  // password: password,
+  password: password,
 })
 redisClient
   .connect()

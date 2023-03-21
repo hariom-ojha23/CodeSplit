@@ -31,7 +31,7 @@ const Home = () => {
       </div>
 
       <footer className='home-footer'>
-        <h4 className='home-footer-text'>Made with 💛 by Hari om Ojha</h4>
+        <h4 className='home-footer-text'>Made with 🔥 by Hari om Ojha</h4>
       </footer>
     </div>
   )
